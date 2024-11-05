@@ -1,0 +1,2 @@
+# rs-vjezbe
+Raspodijeljeni sustavi 
