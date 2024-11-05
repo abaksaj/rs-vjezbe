@@ -1,2 +1,3 @@
 # rs-vjezbe
-Raspodijeljeni sustavi 
+
+Raspodijeljeni sustavi - vježbe iz Pythona
