@@ -1,10 +1,10 @@
 def filter_even_numbers(input_list):
-    even_list = []  # prazna lista za brojeve
+    even_lista = []  # prazna lista za brojeve
     
     for num in input_list:
         if num % 2 == 0:  # provjera da li je broj paran
-            even_list.append(num)  
-    return even_list
+            even_lista.append(num)  
+    return even_lista
 
 # Primjer:
 lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]

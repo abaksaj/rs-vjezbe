@@ -13,5 +13,6 @@ def broj_rijeci(text):
 
 # Primjer
 text = "Python je popularan. Python je jednostavan za naučiti i koristiti."
+rijeci_brojac = {}  
 print(rijeci_brojac(text))
 

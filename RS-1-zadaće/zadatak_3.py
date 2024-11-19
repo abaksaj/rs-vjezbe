@@ -10,4 +10,4 @@ while pogodak != target:
     elif pogodak > target:
         print("Broj je iznad 100!")
     else:
-        print("Pogodili ste pravi broj!")
+        print("Pogodili ste pravi broj!")5
